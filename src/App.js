@@ -83,7 +83,7 @@ class App extends Component {
         <div><a href={`${api}todos`} target="_blank">Check json api</a></div>
         <div><i>This is a fake json restful api, it will return the correct http response, but does not persist the changes on the server.</i></div>
         <br/>
-        <div><a href={`https://github.com/ln613/no-redux-todo-example/blob/master/src/App.js`} target="_blank">View Source</a></div>
+        <div><a href={`https://github.com/ln613/no-redux-todo-example`} target="_blank">View Source</a></div>
       </div>
     );
   }
